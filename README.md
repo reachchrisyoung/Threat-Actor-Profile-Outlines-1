@@ -103,17 +103,18 @@ Step 2 – Address [ThreatActorA]’s TTPs in detail
   + Limt reference inclusion to only those important for the intelligence recipient to know about.
 
 <h2>Quality Checks</h2>
-(Remove from Report after Performing Quality Checks)
+
+(NOTE: Remove from Report after Performing Quality Checks)
 
 QC1) Have I answered these 3 questions?
 
-Yes/No – “What?”
-Yes/No – “So what?”
-Yes/No – “What now?”
++ Yes/No – “What?”
++ Yes/No – “So what?”
++ Yes/No – “What now?”
 
 QC2) Is the report in the Stakeholder’s Interest?
 
-![referencetable1executiveoutline](https://github.com/reachchrisyoung/Threat-Actor-Profile-Outlines-1/assets/104402775/54945b7f-b29f-4062-9191-620e1ecdf8ad)
+![referencetable1executiveoutline](https://github.com/reachchrisyoung/Threat-Actor-Profile-Outlines-1/assets/104402775/bd0004fb-7be0-44bb-9f79-4e0e6556ac1f)
 
 QC3) Is the report confined to 10 to 15 lines (2 to 3 paragraphs)? (Answer should be: Yes)
 
