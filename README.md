@@ -3,6 +3,8 @@ Subject: Executive Threat Actor Profile Reporting <br />
 Source: T. W.  (2023).  [The threat actor profile guide for CTI analysts](https://drive.google.com/file/d/1aIPxUgIA_fC0aH78hN_CQRlMZa69fZ8K/view): Curated intelligence. <br />
 NOTE: This is not an original idea; this work product was inspired by [see source above]. <br />
 Objective 1: Craft reporting templates based on the given methodology. <br />
+<br />
+NOTE: For strategic insight on implementing this outline, please refer to the [Threat Actor Profile Methodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology?tab=readme-ov-file#readme).
 
 <h1>Threat Actor Profile Report to Executives Template</h1>
 
