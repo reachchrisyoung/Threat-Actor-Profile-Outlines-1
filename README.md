@@ -67,7 +67,7 @@ Since the Diamond Model Attributes are key details that support rapid understand
 
 ![tapmtable2](https://github.com/reachchrisyoung/Threat-Actor-Profile-Outlines-1/assets/104402775/172b097d-f1eb-4318-a969-f80f0534d239)
 
-Step 2 – Add the attributes aforementioned to the Diamond Model Diagram
+<h4>Step 2 – Add the attributes aforementioned to the Diamond Model Diagram</h4>
 
 NOTE: For reference, you can review the Diamond Model Diagram by [clicking here](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf?adlt=strict).
 
@@ -77,11 +77,11 @@ NOTE: For reference, you can review the Diamond Model Diagram by [clicking here]
 
 Part D) [ThreatActorA] Tactics, Techniques and Procedures (TTPs)
 
-Step 1 – Summarize the technical details of [ThreatActorA] at a high level.
+<h4>Step 1 – Summarize the technical details of [ThreatActorA] at a high level.</h4>
 
 + Consider utilizing [Unified Kill Chain](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)’s 3 Stages: In, Through, & Out
 
-Step 2 – Address [ThreatActorA]’s TTPs in detail
+<h4>Step 2 – Address [ThreatActorA]’s TTPs in detail</h4>
 
 + Recommendation: Utilize the [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
